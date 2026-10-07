@@ -24,6 +24,10 @@
 .vscode/
 *.iml
 
+# Build output
+target/
+
+
 # OS Files
 Thumbs.db
 [Dd]esktop.ini
