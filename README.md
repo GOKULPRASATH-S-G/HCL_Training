@@ -39,23 +39,6 @@ The main purpose of this repository is to:
 - Develop and maintain the training project
 - Keep the code organized for future reference
 
-## How to Use
-
-Clone the repository:
-
-```bash
-git clone https://github.com/GOKULPRASATH-S-G/HCL_Training.git
-```
-
-Open the repository in your preferred IDE and navigate to the required task or project folder.
-
-For Maven-based projects, the application can generally be built using:
-
-```bash
-mvn clean install
-```
-
-The exact commands may vary depending on the individual task or project.
 
 ## Progress
 
