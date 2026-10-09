@@ -1,6 +1,6 @@
 package model;
 
-public class Pet {
+public class Pet extends BaseEntity {
 
     private int petId;
     private String name;
@@ -10,7 +10,8 @@ public class Pet {
     private String status;
 
     public Pet(int petId, String name, String species,
-               String breed, int age, String status) {
+            String breed, int age, String status) {
+        super(petId);
 
         this.petId = petId;
         this.name = name;

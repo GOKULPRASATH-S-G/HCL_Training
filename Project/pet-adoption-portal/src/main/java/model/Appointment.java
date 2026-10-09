@@ -1,8 +1,7 @@
 package model;
 
-public class Appointment {
+public class Appointment extends BaseEntity {
 
-    private int appointmentId;
     private int petId;
     private String ownerName;
     private String veterinarianName;
@@ -12,8 +11,8 @@ public class Appointment {
     public Appointment(int appointmentId, int petId,
             String ownerName, String veterinarianName,
             String appointmentDate, String status) {
+        super(appointmentId);
 
-        this.appointmentId = appointmentId;
         this.petId = petId;
         this.ownerName = ownerName;
         this.veterinarianName = veterinarianName;
