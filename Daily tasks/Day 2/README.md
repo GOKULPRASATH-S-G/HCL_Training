@@ -34,17 +34,6 @@ The Monthly Usage Analyser demonstrates Java language fundamentals using monthly
 
 The project task focuses on defining business constants and representing sample weekly data using Java arrays.
 
-## Repository Structure
-
-Day 2/
-├── MonthlyUsageAnalyser.java
-├── Constants.java
-├── README.md
-├── .gitignore
-└── sample-data/
-    └── WeeklyUsageData.java
-```
-
 ## Status
 
 Day 2 language fundamentals implementation completed.
