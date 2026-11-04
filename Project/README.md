@@ -1,6 +1,6 @@
 # Assessment 1 — Core Java Checkpoint: Pet Adoption & Veterinary Clinic Portal
 
-A modular, in-memory console application implemented in **pure Core Java (Java 17 compatible)** built with **Apache Maven**, adhering strictly to the **Assessment 1 Core Java Checkpoint** rubric.
+A modular, in-memory console application implemented in **pure Core Java (Java 17 compatible)** built with **Apache Maven**, adhering strictly to the **Assessment 1 Core Java Checkpoint**.
 
 ---
 
